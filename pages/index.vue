@@ -1,17 +1,18 @@
 <template>
   <section class="container">
     <div>
-      <app-logo/>
-      <h1 class="title">
-        dawn
-      </h1>
-      <h2 class="subtitle">
-        Nuxt.js project
-      </h2>
-
       <h3 class="subtitle">
-        Coming soon
+        Coming soon....
       </h3>
+
+      <h1 class="title">
+        Dawn
+      </h1>
+
+      <app-logo/>
+      <h2 class="subtitle">
+       A Nuxt.js project
+      </h2>
     </div>
   </section>
 </template>
